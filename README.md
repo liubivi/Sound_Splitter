@@ -17,7 +17,7 @@ Using your mouse, drag and drop the audio or video file in question on the appli
 
 Requirements
 
-Windows 10 (tested) or possible other Windows versions
+Windows 10 (tested) or possible other Windows versions.
 FFMPEG application must be installed before using Sound Splitter.
 
 FFMPEG is available at the official website ffmpeg.org.
