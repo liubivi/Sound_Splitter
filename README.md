@@ -20,7 +20,7 @@ Requirements
 Windows 10 (tested) or possible other Windows versions.
 FFMPEG application must be installed before using Sound Splitter.
 
-FFMPEG is available at the official website ffmpeg.org.
+FFMPEG is available at the official website https://ffmpeg.org.
 Windows version is available at https://ffmpeg.org/download.html#build-windows.
 Direct download link: https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip.
 
