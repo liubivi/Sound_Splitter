@@ -14,3 +14,16 @@ Usage
 
 Always make a secure copy of the original file before doing any operations with Sound Splitter.
 Using your mouse, drag and drop the audio or video file in question on the application sound_splitter.exe or sound_splitter_mp3.exe. The application should start processing the file immediately.
+
+Requirements
+
+Windows 10 (tested) or possible other Windows versions
+FFMPEG application must be installed before using Sound Splitter.
+
+FFMPEG is available at the official website ffmpeg.org.
+Windows version is available at https://ffmpeg.org/download.html#build-windows.
+Direct download link: https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip.
+
+License
+
+Free
