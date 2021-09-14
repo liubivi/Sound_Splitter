@@ -8,7 +8,7 @@ Supported input file formats include as a minimum the following formats:
 •	video formats: mp4, avi, flv, ...
 You can try other input file formats supported by FFMPEG.
 The output files are 16 kHz 16 bit wav or mp3 files, depending on the application you are using: sound_splitter.exe outputs files in wav format, sound_splitter_mp3.exe outputs files in mp3 format.
-The file splitting allows you a hassle-free upload of very large files to online services (e.g. Speech to text service).
+The file splitting allows you a hassle-free upload of very large files to online services (e.g. Speech to text service). Among other things, when you submit many files to the online sound processing service, you can also expect a faster finishing time, because such tasks normally run in paralel.
 
 Usage
 
