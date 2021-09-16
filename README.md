@@ -11,6 +11,7 @@ The output files are 16 kHz 16 bit wav or mp3 files, depending on the applicatio
 The file splitting allows you a hassle-free upload of very large files to online services (e.g. Speech to text service). Among other things, when you submit many files to the online sound processing service, you can also expect a faster finishing time, because such tasks normally run in paralel.
 
 The application consists of three files:
+
 Sound_Splitter.exe - splits a larger file to smaller wav files
 
 Sound_Splitter_mp3.exe - converts a larger file to smaller mp3 files
