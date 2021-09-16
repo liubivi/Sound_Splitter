@@ -10,6 +10,11 @@ You can try other input file formats supported by FFMPEG.
 The output files are 16 kHz 16 bit wav or mp3 files, depending on the application you are using: sound_splitter.exe outputs files in wav format, sound_splitter_mp3.exe outputs files in mp3 format.
 The file splitting allows you a hassle-free upload of very large files to online services (e.g. Speech to text service). Among other things, when you submit many files to the online sound processing service, you can also expect a faster finishing time, because such tasks normally run in paralel.
 
+The application consists of three files:
+Sound_Splitter.exe - splits a larger file to smaller wav files
+Sound_Splitter_mp3.exe - converts a larger file to smaller mp3 files
+Sound_Splitter_to_tracks.exe - converts a multi-track video or audio file into several files, each of them containing a single audio track 
+
 Usage
 
 Always make a secure copy of the original file before doing any operations with Sound Splitter.
