@@ -12,7 +12,9 @@ The file splitting allows you a hassle-free upload of very large files to online
 
 The application consists of three files:
 Sound_Splitter.exe - splits a larger file to smaller wav files
+
 Sound_Splitter_mp3.exe - converts a larger file to smaller mp3 files
+
 Sound_Splitter_to_tracks.exe - converts a multi-track video or audio file into several files, each of them containing a single audio track 
 
 Usage
