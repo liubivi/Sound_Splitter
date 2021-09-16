@@ -4,8 +4,11 @@ Description
 
 “Sound splitter” is a free Windows application that splits large audio and video files (e.g. of public speeches, presentations), recorded in the most popular formats, such as wav, mp3, flv, mp4, wma, into smaller wav (or mp3) files of around 60 MB in size. It makes an attempt to cut the input file in a silent place, so that a word in a recorded speech is not split in the middle. It also contains the tool for splitting large video files to audio tracks in mp3 format.
 Supported input file formats include as a minimum the following formats:
+
 •	audio formats: wav, mp3, wma, ogg, aac, ...
+
 •	video formats: mp4, avi, flv, ...
+
 You can try other input file formats supported by FFMPEG.
 The output files are 16 kHz 16 bit wav or mp3 files, depending on the application you are using: sound_splitter.exe outputs files in wav format, sound_splitter_mp3.exe outputs files in mp3 format.
 The file splitting allows you a hassle-free upload of very large files to online services (e.g. Speech to text service). Among other things, when you submit many files to the online sound processing service, you can also expect a faster finishing time, because such tasks normally run in paralel.
