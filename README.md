@@ -17,7 +17,7 @@ The application consists of three files:
 
 Sound_Splitter.exe - splits a larger file to smaller wav files
 
-Sound_Splitter_mp3.exe - converts a larger file to smaller mp3 files
+Sound_Splitter_mp3.exe - splits a larger file to smaller mp3 files
 
 Sound_Splitter_to_tracks.exe - converts a multi-track video or audio file into several mp3 files, each of them containing a single audio track. The quality of the records is not degraded in this step: the bit-rate and the frequency of the record remains the same as in the original track. It means that the tool can be also used for the easy conversion of video/audio files to mp3 without any quality loss.
 
