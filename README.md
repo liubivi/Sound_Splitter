@@ -21,6 +21,11 @@ Sound_Splitter_mp3.exe - splits a larger file to smaller mp3 files
 
 Sound_Splitter_to_tracks.exe - converts a multi-track video or audio file into several mp3 files, each of them containing a single audio track. The quality of the records is not degraded in this step: the bit-rate and the frequency of the record remains the same as in the original track. It means that the tool can be also used for the easy conversion of video/audio files to mp3 without any quality loss.
 
+Python source code
+
+sound_splitter.py - the Python source code for splitting a large audio/vieo file to smaller wav files
+sound_splitter_to_tracks.py - the Python source code for splitting a multi-channel audio/video file to several files with a single channel
+
 Usage
 
 Always make a secure copy of the original file before doing any operations with Sound Splitter.
